@@ -8,6 +8,12 @@ import welcomeTo from './welcomeTo.png'
 import banner_1 from './banner_1.png'
 import PepePapaCoin from './PepePapaCoin.png'
 
+import left_cloud from './left_cloud.png'
+import right_cloud_1 from './right_cloud_1.png'
+import right_cloud_2 from './right_cloud_2.png'
+import us_bg from './us_bg.png'
+import pepe_2 from './pepe_2.png'
+
 export {
     bg_1,
     bg_2,
@@ -17,5 +23,11 @@ export {
     mainPepe,
     welcomeTo,
     banner_1,
-    PepePapaCoin
+    PepePapaCoin,
+
+    left_cloud,
+    right_cloud_1,
+    right_cloud_2,
+    us_bg,
+    pepe_2,
 }

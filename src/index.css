@@ -29,3 +29,40 @@ body,
   font-weight: 800;
   line-height: normal;
 }
+
+.number {
+  color: #131313;
+  text-shadow: 5.748952388763428px 4.92767333984375px 0px #AEA6DE;
+  font-family: Murs Gothic;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.primary_text {
+  color: #231F20;
+  font-family: Jost;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+.secondary_text {
+  color: #007436;
+  font-family: Jost;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+}
+
+.white_text {
+  color: #FFF;
+  font-family: Jost;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+}

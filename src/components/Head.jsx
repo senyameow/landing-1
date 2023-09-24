@@ -7,7 +7,7 @@ import { banner_1 } from '../assets'
 
 const Head = () => {
     return (
-        <div className='overflow-hidden max-h-screen w-full bg-cover bg-center secion__1 relative'>
+        <div className='overflow-hidden h-[1025px] w-full bg-cover bg-center secion__1 relative'>
             <Navbar />
             <BackSection_1 />
 
