@@ -23,6 +23,13 @@ import pepe_s3 from './pepe_s3.png'
 import banner_s3 from './banner_s3.png'
 import WhyText from './WhyText.png'
 
+
+import pepe_s4 from './pepe_s4.png'
+import bomb from './bomb.png'
+import rombs from './rombs.png'
+import exclamation from './exclamation.png'
+import heart from './heart.png'
+
 export {
     bg_1,
     bg_2,
@@ -47,6 +54,12 @@ export {
     asset_4,
     pepe_s3,
     banner_s3,
-    WhyText
+    WhyText,
+    pepe_s4,
+
+    bomb,
+    rombs,
+    exclamation,
+    heart,
 
 }

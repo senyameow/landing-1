@@ -66,3 +66,20 @@ body,
   font-weight: 500;
   line-height: 120%;
 }
+
+.card {
+  border-radius: 31.311px;
+  border: 3.914px solid #231F20;
+  box-shadow: 4.69659px 3.91382px 0px 0px #231F20, 0px 1px 2px 0px rgba(64, 64, 64, 0.10), 2px 2px 3px 0px rgba(64, 64, 64, 0.09), 4px 6px 4px 0px rgba(64, 64, 64, 0.05), 7px 10px 5px 0px rgba(64, 64, 64, 0.01), 11px 15px 5px 0px rgba(64, 64, 64, 0.00);
+}
+
+.text__special {
+  color: #131313;
+  text-align: center;
+  text-shadow: 7px 6px 0px #CDF4D3;
+  font-family: Murs Gothic;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 102.5%;
+}
