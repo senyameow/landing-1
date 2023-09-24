@@ -8,7 +8,7 @@ const Section_5 = () => {
                 <div className='w-full flex items-center justify-center mb-[50px]'>
                     <img src={pepe_1_s5} alt="" className='-top-[30px] relative left-[40px] z-[50]' />
 
-                    <div className={`w-[827px] h-[171px] rounded-[40px] border border-[#231F20] bg-[#FFF] relative z-[40]`}>
+                    <div className={`w-[827px] h-[171px] rounded-[40px] border border-[#231F20] bg-[#FFF] relative z-[40] card`}>
 
                         <div className='flex items-center justify-center w-full h-full'>
                             <div className='py-[34px] px-[30px] text-center'>
@@ -22,7 +22,7 @@ const Section_5 = () => {
                     <img src={pepe_2_s5} alt="" className='-top-[30px] relative right-[40px] z-[50]' />
 
                 </div>
-                <div className={`w-[661px] h-[181px] rounded-[40px] border border-[#231F20] bg-[#398147] relative z-50 ml-auto`}>
+                <div className={`w-[661px] h-[181px] rounded-[40px] border border-[#231F20] bg-[#398147] relative z-50 ml-auto card`}>
                     <div className='flex items-center justify-center w-full h-full'>
                         <div className='py-[24px]px-[62px] flex flex-col items-center gap-[7px] justify-center'>
                             <img src={lamp} alt="" />

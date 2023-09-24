@@ -35,6 +35,14 @@ import pepe_2_s5 from './pepe_2_s5.png'
 import lamp from './lamp.png'
 import bg_s5 from './bg_s5.png'
 
+import star from './star.png'
+import diagram from './diagram.png'
+import full_diagram from './full_diagram.png'
+import cloud_l1 from './cloud_s6_left_1.png'
+import cloud_r1 from './cloud_s6_right_1.png'
+import cloud_l2 from './cloud_s6_left_2.png'
+import cloud_r2 from './cloud_s6_right_2.png'
+
 export {
     bg_1,
     bg_2,
@@ -70,6 +78,14 @@ export {
     pepe_1_s5,
     pepe_2_s5,
     lamp,
-    bg_s5
+    bg_s5,
+
+    star,
+    diagram,
+    full_diagram,
+    cloud_l1,
+    cloud_l2,
+    cloud_r1,
+    cloud_r2
 
 }
