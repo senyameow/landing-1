@@ -48,6 +48,7 @@ import pepe_footer_1 from './pepe_footer_1.png'
 import pepe_footer_2 from './pepe_footer_2.png'
 
 import welcome_mobile from './welcome_mobile.png'
+import banner_s3_mob from './banner_s3_mob.png'
 
 export {
     bg_1,
@@ -101,5 +102,6 @@ export {
 
 
     welcome_mobile,
+    banner_s3_mob,
 
 }
