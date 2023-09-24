@@ -13,6 +13,15 @@ import right_cloud_1 from './right_cloud_1.png'
 import right_cloud_2 from './right_cloud_2.png'
 import us_bg from './us_bg.png'
 import pepe_2 from './pepe_2.png'
+import bg_s3 from './bg_s3.png'
+
+import asset_1 from './asset_1.png'
+import asset_2 from './asset_2.png'
+import asset_3 from './asset_3.png'
+import asset_4 from './asset_4.png'
+import pepe_s3 from './pepe_s3.png'
+import banner_s3 from './banner_s3.png'
+import WhyText from './WhyText.png'
 
 export {
     bg_1,
@@ -30,4 +39,14 @@ export {
     right_cloud_2,
     us_bg,
     pepe_2,
+
+    bg_s3,
+    asset_1,
+    asset_2,
+    asset_3,
+    asset_4,
+    pepe_s3,
+    banner_s3,
+    WhyText
+
 }
