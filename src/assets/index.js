@@ -43,6 +43,10 @@ import cloud_r1 from './cloud_s6_right_1.png'
 import cloud_l2 from './cloud_s6_left_2.png'
 import cloud_r2 from './cloud_s6_right_2.png'
 
+import bg_footer from './bg_footer.png'
+import pepe_footer_1 from './pepe_footer_1.png'
+import pepe_footer_2 from './pepe_footer_2.png'
+
 export {
     bg_1,
     bg_2,
@@ -86,6 +90,10 @@ export {
     cloud_l1,
     cloud_l2,
     cloud_r1,
-    cloud_r2
+    cloud_r2,
+
+    bg_footer,
+    pepe_footer_1,
+    pepe_footer_2,
 
 }
