@@ -30,6 +30,11 @@ import rombs from './rombs.png'
 import exclamation from './exclamation.png'
 import heart from './heart.png'
 
+import pepe_1_s5 from './pepe_1_s5.png'
+import pepe_2_s5 from './pepe_2_s5.png'
+import lamp from './lamp.png'
+import bg_s5 from './bg_s5.png'
+
 export {
     bg_1,
     bg_2,
@@ -61,5 +66,10 @@ export {
     rombs,
     exclamation,
     heart,
+
+    pepe_1_s5,
+    pepe_2_s5,
+    lamp,
+    bg_s5
 
 }

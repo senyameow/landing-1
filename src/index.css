@@ -83,3 +83,9 @@ body,
   font-weight: 800;
   line-height: 102.5%;
 }
+
+.s__5 {
+  background-image: url(./assets/bg_s5.png);
+  background-repeat: no-repeat;
+  background-color: #CDF4D3;
+}
