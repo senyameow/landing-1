@@ -16,7 +16,7 @@ const INFO = [
 
 const Section_6 = () => {
     return (
-        <div className='h-[3595px] w-full bg-white relative'>
+        <div className='h-[3595px] w-full bg-white relative' id='tokenomics'>
             <img src={cloud_l1} alt="" className='absolute hidden xl:block left-0 top-[900px] w-[129px] h-[345px]' />
             <img src={cloud_r1} alt="" className='absolute hidden xl:block right-0 top-[1450px] w-[214px] h-[572px]' />
             <img src={cloud_l2} alt="" className='absolute hidden xl:block left-0 top-[2126px] w-[307px] h-[820px]' />
