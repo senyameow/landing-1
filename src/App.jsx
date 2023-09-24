@@ -9,7 +9,7 @@ import Footer from "./components/sections/Footer"
 function App() {
 
   return (
-    <div className="h-full w-full relative">
+    <div className="h-full w-full relative overflow-x-hidden">
       <Head />
       <BannerMain />
       <Section_2 />

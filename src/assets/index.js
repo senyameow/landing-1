@@ -47,6 +47,8 @@ import bg_footer from './bg_footer.png'
 import pepe_footer_1 from './pepe_footer_1.png'
 import pepe_footer_2 from './pepe_footer_2.png'
 
+import welcome_mobile from './welcome_mobile.png'
+
 export {
     bg_1,
     bg_2,
@@ -95,5 +97,9 @@ export {
     bg_footer,
     pepe_footer_1,
     pepe_footer_2,
+
+
+
+    welcome_mobile,
 
 }
