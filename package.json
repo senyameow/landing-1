@@ -1,7 +1,7 @@
 {
   "name": "pepecoin",
   "private": true,
-  "homepage": "http://papacoin.wtf/",
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
