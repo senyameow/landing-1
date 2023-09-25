@@ -9,7 +9,7 @@ const Section_3 = () => {
     return (
         <section className='min-h-[1468px] w-full bg-[#CDF4D3] relative overflow-hidden'>
             <img src={bg_s3} alt="" className='w-[2811px] opacity-30 lg:opacity-50 absolute h-full  ' />
-            <img src={pepe_s3} alt='' className='absolute w-[200px] h-[163px] top-[150px] lg:top-[343px]' />
+            <img src={pepe_s3} alt='' className='absolute w-[100px] lg:w-[200px] h-[90px] lg:h-[163px] top-[150px] lg:top-[343px]' />
             <Banner_s3 />
             <Banner_s3_mob />
             <div className='mt-[200px] lg:mt-0 py-[200px] px-[30px] lg:px-[300px] mx-auto h-full w-full z-50'>

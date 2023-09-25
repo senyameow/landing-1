@@ -8,7 +8,7 @@ const Section_5 = () => {
                 <div className='w-full xl:flex xl:items-center xl:justify-center mb-[50px]'>
                     <img src={pepe_1_s5} alt="" className='xl:-top-[30px] xl:relative xl:left-[40px] z-[50] absolute top-[10px] left-0  ' />
 
-                    <div className={`max-w-[827px] h-[171px] rounded-[40px] border border-[#231F20] bg-[#FFF] relative z-[40] card`}>
+                    <div className={`max-w-[827px] min-h-[171px] rounded-[40px] border border-[#231F20] bg-[#FFF] relative z-[40] card`}>
 
                         <div className='flex items-center justify-center w-full h-full'>
                             <div className='py-[34px] px-[30px] text-center '>
@@ -22,7 +22,7 @@ const Section_5 = () => {
                     <img src={pepe_2_s5} alt="" className='xl:-top-[30px] xl:relative xl:right-[40px] z-[50] absolute bottom-[10px] right-0' />
 
                 </div>
-                <div className={`max-w-[661px] h-[181px] rounded-[40px] border border-[#231F20] bg-[#398147] relative z-50 ml-auto card`}>
+                <div className={`max-w-[661px] min-h-[181px] rounded-[40px] border border-[#231F20] bg-[#398147] relative z-50 ml-auto card`}>
                     <div className='flex items-center justify-center w-full h-full'>
                         <div className='py-[24px] px-[62px] flex flex-col items-center gap-[7px] justify-center'>
                             <img src={lamp} alt="" />
