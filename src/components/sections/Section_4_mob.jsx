@@ -3,7 +3,7 @@ import { pepe_s4 } from '../../assets'
 
 const Section_4_mob_start = () => {
     return (
-        <div className='hidden lg:block'>
+        <div className='hidden lg:flex lg:flex-col'>
             <div className='ml-[180px]'>
                 <div className={`w-[650px] h-[252px] bg-[#C4BBFA] flex items-start justify-center card px-[60px] `}>
                     <div className='text-white relative text-[100px] font-500 flex items-center justify-center leading-[96px] h-full'>

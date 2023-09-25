@@ -7,7 +7,7 @@ import Banner_s3_mob from '../Banner_s3_mob'
 
 const Section_3 = () => {
     return (
-        <section className='h-[1868px] w-full bg-[#CDF4D3] relative overflow-hidden'>
+        <section className='min-h-[1468px] w-full bg-[#CDF4D3] relative overflow-hidden'>
             <img src={bg_s3} alt="" className='w-[2811px] opacity-30 lg:opacity-50 absolute h-full  ' />
             <img src={pepe_s3} alt='' className='absolute w-[200px] h-[163px] top-[150px] lg:top-[343px]' />
             <Banner_s3 />
@@ -34,7 +34,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[3%] lg:w-full w-[85%] h-[80%] lg:h-full'>
+                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[4%] lg:w-full w-[85%] h-[80%] lg:h-full'>
                             <img src={asset_2} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
@@ -58,7 +58,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50%] lg:-top-[40%] --eft-[43] w-[70%] h-[70%]5lg:w-full lg:h-full'>
+                        <div className='absolute -top-[50%] lg:-top-[40%] -left-[43px] w-[70%] h-[70%]5lg:w-full lg:h-full'>
                             <img src={asset_4} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
