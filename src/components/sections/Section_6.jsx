@@ -2,21 +2,10 @@ import React from 'react'
 import { cloud_l1, cloud_l2, cloud_r1, cloud_r2, full_diagram, star } from '../../assets'
 import Cards_Section_5 from '../Cards_Section_5'
 
-const INFO = [
-    {
-        text: `At PepePapaCoin, we've carefully designed our tokenomics to ensure that our community and mission remain at the forefront.`
-    },
-    {
-        text: `PepePapaCoin ($PAPA) is more than just a cryptocurrency; it's a tribute to fathers and the legendary Pepe.`
-    },
-    {
-        text: `Here's how we allocate the token's resources:`
-    },
-]
 
 const Section_6 = () => {
     return (
-        <div className='min-h-[3595px] pb-[100px] w-full bg-white relative' id='tokenomics'>
+        <section className='min-h-[3595px] pb-[100px] w-full bg-white relative' id='tokenomics'>
             <img src={cloud_l1} alt="" className='absolute hidden xl:block left-0 top-[900px] w-[129px] h-[345px]' />
             <img src={cloud_r1} alt="" className='absolute hidden xl:block right-0 top-[1450px] w-[214px] h-[572px]' />
             <img src={cloud_l2} alt="" className='absolute hidden xl:block left-0 top-[2126px] w-[307px] h-[820px]' />
@@ -67,7 +56,7 @@ const Section_6 = () => {
 
             </div>
 
-        </div>
+        </section>
     )
 }
 

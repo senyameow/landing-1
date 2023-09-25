@@ -8,6 +8,7 @@ body,
 :root {
   height: 100%;
   font-family: Jost;
+  scroll-behavior: smooth;
 }
 
 .secion__1 {
@@ -203,6 +204,7 @@ body,
   overflow: hidden;
   text-shadow: 0 var(--font-shadow) 0 var(--text);
 }
+
 
 .button__buy div span {
   display: block;

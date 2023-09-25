@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { cn } from '../lib/utils'
-import { slide as Menu } from 'react-burger-menu'
 
 
 const LINKS = [
@@ -39,9 +38,9 @@ const Navbar = () => {
         <nav className=' w-full h-full lg:px-[50px] xl:px-[102px] ml-auto z-50 relative overflow-hidden'>
             <ul className='hidden pt-[25px] md:flex items-center gap-[13px] lg:gap-[12px] xl:gap-[28px] w-full ml-auto justify-end'>
                 {LINKS.map(link => (
-                    <AnchorLink key={link.href} href={link.href} className='text-[28px] font-[500] text-white'>
+                    <a key={link.href} href={link.href} className='text-[28px] font-[500] text-white'>
                         {link.label}
-                    </AnchorLink>
+                    </a >
                 ))}
             </ul>
             <div className={cn(`w-full flex justify-end md:hidden`)} >

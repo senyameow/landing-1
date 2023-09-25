@@ -9,7 +9,7 @@ const Footer = () => {
             <img src={pepe_footer_1} alt="" className='absolute left-0 top-[20px] lg:top-[39px] w-[149px]' />
             <img src={pepe_footer_2} alt="" className='bottom-[20px] w-[159px] absolute right-0 lg:top-[430px] z-[55]' />
             <div className='flex items-center justify-center w-full h-full'>
-                <div className='flex flex-col items-center text-center max-w-[1107px]'>
+                <div id='zxc' className='flex flex-col items-center text-center max-w-[1107px]'>
                     <div className='text_footer leading-3 lg:leading-[60px] text-[60px] md:text-[50px] lg:text-[60px] mb-[20px] md:mb-[200px] lg:mb-[70px]'>
                         Join us in celebrating fathers and the iconic Pepe while participating in the crypto revolution with PepePapaCoin ($PAPA)!
                     </div>
