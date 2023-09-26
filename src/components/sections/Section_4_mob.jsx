@@ -27,7 +27,7 @@ const Section_4_mob_start = () => {
 
             </div>
 
-            <img src={pepe_s4} alt="" className='absolute top-[22%] right-[190px] z-[0]' />
+            <img src={pepe_s4} alt="" className='absolute top-[19%] right-[190px] z-[0]' />
         </div>
     )
 }

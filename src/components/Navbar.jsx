@@ -26,6 +26,7 @@ const Navbar = () => {
 
 
     const page = document.getElementById('page')
+    const buy = document.getElementById('buy')
 
 
     const onClick = () => {
@@ -33,9 +34,11 @@ const Navbar = () => {
     }
 
     isOpen ? page?.classList.add('overflow-y-hidden') : page?.classList.remove('overflow-y-hidden')
+    !isOpen ? buy?.classList.add('z-[100]') : buy?.classList.remove('z-[100]')
+
 
     return (
-        <nav className=' w-full h-full lg:px-[50px] xl:px-[102px] ml-auto z-50 relative overflow-hidden'>
+        <nav className=' w-full h-full lg:px-[50px] xl:px-[102px] ml-auto z-[100] relative overflow-hidden'>
             <ul className='hidden pt-[25px] md:flex items-center gap-[13px] lg:gap-[12px] xl:gap-[28px] w-full ml-auto justify-end'>
                 {LINKS.map(link => (
                     <a key={link.href} href={link.href} className='text-[28px] font-[500] text-white'>
@@ -52,7 +55,7 @@ const Navbar = () => {
             </div>
 
 
-            <div className={cn(`w-full h-screen bg-[#007436] absolute top-0 transition duration-500 z-[100]`, !isOpen && 'translate-x-[100%]')}>
+            <div className={cn(`w-full h-screen bg-[#007436] absolute top-0 transition duration-500 `, !isOpen && 'translate-x-[100%]')}>
                 <div className={cn(`w-full flex justify-end`)} >
                     <button class={cn(`w-fit icon nav-icon-5`, isOpen && 'open')} onClick={onClick}>
                         <span></span>

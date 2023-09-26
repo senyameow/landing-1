@@ -13,7 +13,7 @@ const Section_2 = () => {
             <div className='px-[20px] lg:px-[190px] mx-auto'>
                 <div className='flex w-full justify-center items-center'>
                     <div className='pt-[0px] lg:pt-[120px] mb-[95px]' id='about'>
-                        <div className='card bg-[#6CCB70] lg:w-[419px] w-[500px] lg:h-[173px] h-[158px] relative'>
+                        <div className='card bg-[#6CCB70] lg:w-[419px] w-[320px] lg:h-[173px] h-[158px] relative'>
                             <div className='w-full flex items-center justify-center text-white text-[100px]'>
                                 About
                             </div>

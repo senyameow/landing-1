@@ -25,7 +25,7 @@ const Section_4_start = () => {
                     </div>
                 </div>
             </div>
-            <img src={pepe_s4} alt="" className='absolute top-[15%] right-[35px] z-[0] w-[125px] h-[110px] -rotate-12' />
+            <img src={pepe_s4} alt="" className='absolute top-[16.3%] right-[10%] z-[0] w-[125px] h-[110px] -rotate-12' />
 
         </div>
     )

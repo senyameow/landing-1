@@ -17,7 +17,7 @@ const Section_4 = () => {
                             <div className='w-full h-full flex items-center justify-center'>
                                 <img src={bomb} alt="" className='absolute left-[55%] -top-[140px] -translate-x-1/2 ' />
                                 <div className='flex flex-col space-y-[15px] lg:space-y-[40px]  font-500 px-[20px] lg:px-0 lg:max-w-[455px] mx-auto text-center text-white'>
-                                    <div className='lg:text-[30px] text-[60px]'>
+                                    <div className='lg:text-[30px] text-[40px]'>
                                         Buy $PAPA:
                                     </div>
                                     <div className='lg:text-[24px] text-[25px] leading-[30px] lg:leading-normal lg:px-6 px-0 '>
@@ -32,7 +32,7 @@ const Section_4 = () => {
                             <div className='w-full h-full flex items-center justify-center'>
                                 <img src={exclamation} alt="" className='absolute left-[50%] -top-[100px] -translate-x-1/2 ' />
                                 <div className='flex flex-col space-y-[15px] lg:space-y-[40px] font-500 px-[20px] lg:px-0 lg:max-w-[455px] mx-auto text-center text-black'>
-                                    <div className='lg:text-[30px] text-[60px]'>
+                                    <div className='lg:text-[30px] text-[40px]'>
                                         HODL:
                                     </div>
                                     <div className='lg:text-[24px] text-[25px] leading-[30px] lg:leading-normal lg:px-6 px-0 '>
@@ -46,7 +46,7 @@ const Section_4 = () => {
                             <div className='w-full h-full flex items-center justify-center'>
                                 <img src={rombs} alt="" className='absolute left-[50%] -top-[0px] -translate-x-1/2 ' />
                                 <div className='flex flex-col space-y-[15px] lg:space-y-[40px]  font-500 px-[20px] lg:px-0 lg:max-w-[455px] mx-auto text-center text-white'>
-                                    <div className='lg:text-[30px] text-[60px]'>
+                                    <div className='lg:text-[30px] text-[40px]'>
                                         Engage:
                                     </div>
                                     <div className='lg:text-[24px] text-[25px] leading-[30px] lg:leading-normal lg:px-6 px-0 '>
@@ -58,9 +58,9 @@ const Section_4 = () => {
                     <div className='flex items-center w-full justify-center'>
                         <div className={`lg:w-[535px] lg:h-[377px] w-full h-[400px] relative bg-[#E69B4D] card `}>
                             <div className='w-full h-full flex items-center justify-center'>
-                                <img src={heart} alt="" className='absolute left-[50%] -top-[80px] -translate-x-1/2 ' />
+                                <img src={heart} alt="" className='absolute left-[50%] -top-[80px] w-[150px] lg:w-[17%] -translate-x-1/2 ' />
                                 <div className='flex flex-col space-y-[15px] lg:space-y-[40px]  font-500 px-[20px] lg:px-0 lg:max-w-[455px] mx-auto text-center text-white'>
-                                    <div className='lg:text-[30px] text-[60px]'>
+                                    <div className='lg:text-[30px] text-[40px] leading-[50px]'>
                                         Spread the Word:
                                     </div>
                                     <div className='lg:text-[24px] text-[25px] leading-[30px] lg:leading-normal lg:px-6 px-0 '>
