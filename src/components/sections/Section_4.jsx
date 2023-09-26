@@ -44,7 +44,7 @@ const Section_4 = () => {
                     <div className='flex items-center w-full justify-center'>
                         <div className={`lg:w-[535px] lg:h-[377px] w-full h-[400px] relative bg-[#C4BBFA] card `}>
                             <div className='w-full h-full flex items-center justify-center'>
-                                <img src={rombs} alt="" className='absolute left-[50%] -top-[0px] -translate-x-1/2 ' />
+                                <img src={rombs} alt="" className='absolute left-[50%] top-0 lg:-top-[20px] -translate-x-1/2 ' />
                                 <div className='flex flex-col space-y-[15px] lg:space-y-[40px]  font-500 px-[20px] lg:px-0 lg:max-w-[455px] mx-auto text-center text-white'>
                                     <div className='lg:text-[30px] text-[40px]'>
                                         Engage:
@@ -58,7 +58,7 @@ const Section_4 = () => {
                     <div className='flex items-center w-full justify-center'>
                         <div className={`lg:w-[535px] lg:h-[377px] w-full h-[400px] relative bg-[#E69B4D] card `}>
                             <div className='w-full h-full flex items-center justify-center'>
-                                <img src={heart} alt="" className='absolute left-[50%] -top-[80px] w-[150px] lg:w-[17%] -translate-x-1/2 ' />
+                                <img src={heart} alt="" className='absolute left-[50%] -top-[80px] w-[150px] lg:w-[170px] -translate-x-1/2 ' />
                                 <div className='flex flex-col space-y-[15px] lg:space-y-[40px]  font-500 px-[20px] lg:px-0 lg:max-w-[455px] mx-auto text-center text-white'>
                                     <div className='lg:text-[30px] text-[40px] leading-[50px]'>
                                         Spread the Word:

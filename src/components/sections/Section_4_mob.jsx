@@ -18,8 +18,8 @@ const Section_4_mob_start = () => {
                     </div>
                 </div>
             </div>
-            <div className='px-[180px] w-full relative z-50 mb-[165px]'>
-                <div className={` w-[830px] h-[170px] ml-auto bg-[#C4BBFA] flex items-start justify-center card px-[60px] `}>
+            <div className='px-[180px] w-full relative z-50 mb-[165px] flex'>
+                <div className={` w-[830px] h-[170px] ml-auto bg-[#C4BBFA] flex items-center justify-center card px-[30px] `}>
                     <div className='text-white text-[100px] font-500 flex items-center justify-center leading-[96px] h-full'>
                         PepePapaCoin?
                     </div>
@@ -27,7 +27,7 @@ const Section_4_mob_start = () => {
 
             </div>
 
-            <img src={pepe_s4} alt="" className='absolute top-[19%] right-[190px] z-[0]' />
+            <img src={pepe_s4} alt="" className='absolute lg:top-[19%] right-[15%] sm:right-[11%] md:hidden xl:block xl:right-[190px] z-[0]' />
         </div>
     )
 }

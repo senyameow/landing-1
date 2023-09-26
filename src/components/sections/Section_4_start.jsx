@@ -5,7 +5,7 @@ const Section_4_start = () => {
     return (
         <div className='lg:hidden flex-col px-[50px] flex mx-auto items-center justify-center'>
             <div className=''>
-                <div className={`max-w-[650px] h-[252px] bg-[#C4BBFA] flex items-start justify-center card px-[60px] `}>
+                <div className={`max-w-[650px] h-[252px] bg-[#C4BBFA] flex items-center justify-center card px-[60px] `}>
                     <div className='text-white relative leading-[60px] text-[60px] text-center lg:text-start sm:text-[70px] md:text-[80px] lg:text-[100px] font-500 flex items-center justify-center lg:leading-[96px] h-full'>
                         How to Get Started
                     </div>
@@ -18,8 +18,8 @@ const Section_4_start = () => {
                     </div>
                 </div>
             </div>
-            <div className=' w-full relative z-50 mb-[165px]'>
-                <div className={` max-w-[630px] h-[170px] bg-[#C4BBFA] flex items-start justify-center card `}>
+            <div className=' w-full relative z-50 mb-[165px] flex items-center justify-center'>
+                <div className={` max-w-[630px] h-[170px] bg-[#C4BBFA] flex items-center justify-center card px-[50px]`}>
                     <div className='text-white text-[40px]  sm:text-[70px] md:text-[80px] lg:text-[100px] break-words font-500 flex items-center justify-center lg:leading-[96px] h-full'>
                         PepePapaCoin?
                     </div>
