@@ -50,6 +50,8 @@ import pepe_footer_2 from './pepe_footer_2.png'
 import welcome_mobile from './welcome_mobile.png'
 import banner_s3_mob from './banner_s3_mob.png'
 
+import diagram2 from './diagram2.png'
+
 export {
     bg_1,
     bg_2,
@@ -103,5 +105,6 @@ export {
 
     welcome_mobile,
     banner_s3_mob,
+    diagram2
 
 }

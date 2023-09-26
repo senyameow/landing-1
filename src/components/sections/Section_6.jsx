@@ -1,5 +1,5 @@
 import React from 'react'
-import { cloud_l1, cloud_l2, cloud_r1, cloud_r2, full_diagram, star } from '../../assets'
+import { cloud_l1, cloud_l2, cloud_r1, cloud_r2, diagram2, star } from '../../assets'
 import Cards_Section_5 from '../Cards_Section_5'
 
 
@@ -47,7 +47,7 @@ const Section_6 = () => {
                     </div>
                 </div>
                 <div className='w-full xl:ml-auto mt-[60px] mb-[116px]'>
-                    <img src={full_diagram} alt="" className='w-[933px] h-[806px] ml-auto' />
+                    <img src={diagram2} alt="" className='w-[933px] h-[806px] ml-auto' />
                 </div>
                 <div className='md::px-[140px] sm:px-[40px] px-[30px] lg:px-[230px] mx-auto relative z-[100]'>
                     <Cards_Section_5 />
