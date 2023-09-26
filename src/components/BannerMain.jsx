@@ -16,7 +16,7 @@ const BannerMain = () => {
     return (
         <div id='buy' className='absolute left-[50%] w-[1310px] h-[225px] -bottom-[11%] -translate-x-1/2 z-[100]'>
             <div className='relative flex items-center justify-center z-[200] top-2 '>
-                <a href="/" className='md:w-fit button__buy px-[50px] py-[20px] flex items-center justify-center text-center rounded-full w-[314px] h-[80px] lg:h-[85px] relative z-[100]'>
+                <a href="https://dexscreener.com/ethereum/0x43fa96e326b2fc95c9782e05ae9c87f0c5a61148" className='md:w-fit button__buy px-[50px] py-[20px] flex items-center justify-center text-center rounded-full w-[314px] h-[80px] lg:h-[85px] relative z-[100]'>
                     Buy $PAPA
                 </a>
             </div>
