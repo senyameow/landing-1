@@ -22,7 +22,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[3%] lg:w-full w-[85%] h-[80%] lg:h-full'>
+                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
                             <img src={asset_1} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
@@ -34,7 +34,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[4%] lg:w-full w-[85%] h-[80%] lg:h-full'>
+                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
                             <img src={asset_2} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
@@ -46,7 +46,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[3%] lg:w-full w-[85%] h-[80%] lg:h-full'>
+                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
                             <img src={asset_3} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
@@ -58,8 +58,8 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50%] lg:-top-[40%] -left-[43px] w-[70%] h-[70%]5lg:w-full lg:h-full'>
-                            <img src={asset_4} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
+                        <div className='absolute -top-[35%] lg:-top-[40%] -left-[5%] w-[70%] h-[70%] lg:w-full lg:h-full'>
+                            <img src={asset_4} alt="" className='w-[87px] h-[107px] lg:w-[150px] lg:h-[150px]' />
                         </div>
                     </div>
 
