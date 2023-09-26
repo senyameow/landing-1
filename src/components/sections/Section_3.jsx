@@ -22,7 +22,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
+                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[3%] lg:-left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
                             <img src={asset_1} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
@@ -34,7 +34,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
+                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[3%] lg:-left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
                             <img src={asset_2} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
@@ -46,7 +46,7 @@ const Section_3 = () => {
                             </div>
 
                         </div>
-                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
+                        <div className='absolute -top-[50px] lg:-top-[40%] -left-[5%] xs:-left-[3%] lg:-left-[7%] lg:w-full w-[85%] h-[80%] lg:h-full'>
                             <img src={asset_3} alt="" className='w-[87px] h-[107px] lg:w-[170px] lg:h-[150px]' />
                         </div>
                     </div>
