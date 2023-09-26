@@ -7,12 +7,12 @@ import Banner_s3_mob from '../Banner_s3_mob'
 
 const Section_3 = () => {
     return (
-        <section className='min-h-[1468px] w-full bg-[#CDF4D3] relative overflow-hidden'>
+        <section className='min-h-[1468px] w-full bg-[#CDF4D3] relative overflow-hidden mx-auto'>
             <img src={bg_s3} alt="" className='w-[2811px] opacity-30 lg:opacity-50 absolute h-full  ' />
             <img src={pepe_s3} alt='' className='absolute w-[100px] lg:w-[200px] h-[90px] lg:h-[163px] top-[150px] lg:top-[343px]' />
             <Banner_s3 />
             <Banner_s3_mob />
-            <div className='mt-[200px] lg:mt-0 py-[200px] px-[30px] lg:px-[300px] mx-auto h-full w-full z-50'>
+            <div className='mt-[200px] lg:mt-0 py-[200px] px-[30px] lg:px-[240px] mx-auto h-full w-full z-50'>
                 <div className='lg:flex lg:flex-col gap-[101px] w-full grid grid-cols-1 '>
                     <div className={`lg:w-[847px] w-full min-h-fit rounded-[40px] border border-[#231F20] bg-[#FFF] relative z-50`}>
                         <div className='flex items-center justify-center w-full h-full'>

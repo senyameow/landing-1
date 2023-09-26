@@ -26,7 +26,7 @@ const Section_2 = () => {
                     </div>
 
                 </div>
-                <div className='flex flex-col items-start w-full '>
+                <div className='flex flex-col items-start w-full relative z-[10] '>
                     <div className='flex lg:flex-row flex-col lg:items-center mb-[30px] lg:mb-[89px]' >
                         <p className='lg:text-[100px] text-[130px] number mr-[38px]'>.1</p>
                         <div className='flex flex-col'>
