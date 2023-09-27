@@ -14,7 +14,7 @@ const Cards_Section_5 = () => {
             <Card_Section_5 attention={true} bigger={true}>
                 <div className='flex flex-col items-start gap-[20px]'>
                     <p className='text-[24px] text-white leading-[28.8px]'><span className='font-bold'>To ensure ease of access and liquidity</span> a portion of PepePapaCoin's resources will be allocated to securing listings on reputable centralized exchanges (CEXs). This allocation will be used for:</p>
-                    <p className='text-[24px] text-white leading-[28.8px]'><span className='font-bold'>Exchange Listings</span> PepePapaCoin will be listed on major CEXs, making it easier for users to buy, sell, and trade $PAPA tokens.</p>
+                    <p className='text-[24px] text-white leading-[28.8px]'><span className='font-bold'>Exchange Listings</span> PepePapaCoin will be listed on major CEXs, making it easier for users to buy, sell, and trade $PEPEPAPA tokens.</p>
                     <p className='text-[24px] text-white leading-[28.8px]'><span className='font-bold'>Increased Liquidity</span> CEX listings will enhance liquidity, making it simpler for traders and investors to participate in the PepePapaCoin ecosystem. </p>
                     <p className='text-[24px] text-white leading-[28.8px]'><span className='font-bold'>Broader Adoption:</span> Access to CEXs allows for broader exposure and adoption of PepePapaCoin, attracting new users and investors.</p>
                 </div>

@@ -18,7 +18,7 @@ const Section_3 = () => {
                         <div className='flex items-center justify-center w-full h-full'>
                             <div className='py-[24px] lg:pl-[120px] px-[50px] pr-[20px] lg:pr-[70px] flex flex-col items-start gap-[7px] justify-center'>
                                 <h3 className={`text-[#007436] text-[18px] lg:text-[24px] font-500 `}>A Tribute to Fathers:</h3>
-                                <p className={`max-w-[660px] mx-auto text-[18px] lg:text-[24px] text-[#231F20]`}>While we celebrate fatherhood, PapaCoin also offers exciting profit potential for investors. As the crypto market evolves, $PAPA aims to become a valuable digital asset.</p>
+                                <p className={`max-w-[660px] mx-auto text-[18px] lg:text-[24px] text-[#231F20]`}>While we celebrate fatherhood, PapaCoin also offers exciting profit potential for investors. As the crypto market evolves, $PEPEPAPA aims to become a valuable digital asset.</p>
                             </div>
 
                         </div>
@@ -30,7 +30,7 @@ const Section_3 = () => {
                         <div className='flex items-center justify-center w-full h-full'>
                             <div className='py-[24px] lg:pl-[120px] px-[50px] pr-[20px] lg:pr-[70px] flex flex-col items-start gap-[7px] justify-center'>
                                 <h3 className={`text-[#FFF] text-[18px] lg:text-[24px] font-500 `}>Profit Potential:</h3>
-                                <p className={`max-w-[660px] mx-auto text-[18px] lg:text-[24px] text-[#FFF]`}>While we celebrate fatherhood, PapaCoin also offers exciting profit potential for investors. As the crypto market evolves, $PAPA aims to become a valuable digital asset.</p>
+                                <p className={`max-w-[660px] mx-auto text-[18px] lg:text-[24px] text-[#FFF]`}>While we celebrate fatherhood, PapaCoin also offers exciting profit potential for investors. As the crypto market evolves, $PEPEPAPA aims to become a valuable digital asset.</p>
                             </div>
 
                         </div>
@@ -42,7 +42,7 @@ const Section_3 = () => {
                         <div className='flex items-center justify-center w-full h-full'>
                             <div className='py-[24px] lg:pl-[120px] px-[50px] pr-[20px] lg:pr-[70px] flex flex-col items-start gap-[7px] justify-center'>
                                 <h3 className={`text-[#007436] text-[18px] lg:text-[24px] font-500 `}>Community-Driven:</h3>
-                                <p className={`max-w-[660px] mx-auto text-[18px] lg:text-[24px] text-[#231F20]`}>PepePapaCoin is built on the principles of community and unity. Join our passionate community of fathers, crypto enthusiasts, and Pepe fans who believe in the power of $PAPA.</p>
+                                <p className={`max-w-[660px] mx-auto text-[18px] lg:text-[24px] text-[#231F20]`}>PepePapaCoin is built on the principles of community and unity. Join our passionate community of fathers, crypto enthusiasts, and Pepe fans who believe in the power of $PEPEPAPA.</p>
                             </div>
 
                         </div>

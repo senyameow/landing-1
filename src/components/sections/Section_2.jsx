@@ -31,7 +31,7 @@ const Section_2 = () => {
                         <p className='lg:text-[100px] text-[130px] number mr-[38px]'>.1</p>
                         <div className='flex flex-col'>
                             <p className='primary_text max-w-[727px] mb-[23px]'>In honor of fathers everywhere and the iconic Pepe, we present to you <span className='secondary_text'>PepePapaCoin</span> - the cryptocurrency that's not just a token, it's a tribute to the unsung heroes who shape our lives.</p>
-                            <p className='primary_text max-w-[754px]'><span className='secondary_text'>PepePapaCoin ($PAPA)</span> is the ultimate digital asset designed to celebrate the spirit of fatherhood and pay homage to the legendary Pepe.</p>
+                            <p className='primary_text max-w-[754px]'><span className='secondary_text'>PepePapaCoin ($PEPEPAPA)</span> is the ultimate digital asset designed to celebrate the spirit of fatherhood and pay homage to the legendary Pepe.</p>
                         </div>
                     </div>
                     <div className='flex lg:flex-row flex-col lg:items-center mb-[30px] lg:mb-[89px]' >

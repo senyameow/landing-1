@@ -11,7 +11,7 @@ const Footer = () => {
             <div className='flex items-center justify-center w-full h-full'>
                 <div id='zxc' className='flex flex-col items-center text-center max-w-[1107px]'>
                     <div className='text_footer leading-3 lg:leading-[60px] text-[45px] md:text-[50px] lg:text-[60px] mb-[20px] md:mb-[200px] lg:mb-[70px]'>
-                        Join us in celebrating fathers and the iconic Pepe while participating in the crypto revolution with PepePapaCoin ($PAPA)!
+                        Join us in celebrating fathers and the iconic Pepe while participating in the crypto revolution with PepePapaCoin ($PEPEPAPA)!
                     </div>
                     <div className='justify-around flex items-center lg:gap-[120px] md:gap-[130px] gap-[100px]'>
                         <a href="https://t.me/pepepapacoin" className='lg:w-[168px] lg:h-[168px] w-[110px] h-[110px] aspect-square'>

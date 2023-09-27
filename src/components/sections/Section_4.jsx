@@ -18,10 +18,10 @@ const Section_4 = () => {
                                 <img src={bomb} alt="" className='absolute left-[55%] -top-[140px] -translate-x-1/2 ' />
                                 <div className='flex flex-col space-y-[15px] lg:space-y-[40px]  font-500 px-[20px] lg:px-0 lg:max-w-[455px] mx-auto text-center text-white'>
                                     <div className='lg:text-[30px] text-[40px]'>
-                                        Buy $PAPA:
+                                        Buy $PEPEPAPA:
                                     </div>
                                     <div className='lg:text-[24px] text-[25px] leading-[30px] lg:leading-normal lg:px-6 px-0 '>
-                                        Visit a uniswap and purchase $PAPA tokens to join our community and start your journey.
+                                        Visit a uniswap and purchase $PEPEPAPA tokens to join our community and start your journey.
                                     </div>
                                 </div>
                             </div>
@@ -36,7 +36,7 @@ const Section_4 = () => {
                                         HODL:
                                     </div>
                                     <div className='lg:text-[24px] text-[25px] leading-[30px] lg:leading-normal lg:px-6 px-0 '>
-                                        Hold onto your $PAPA tokens as a symbol of your support for fathers and the Pepe legacy.                                </div>
+                                        Hold onto your $PEPEPAPA tokens as a symbol of your support for fathers and the Pepe legacy.                                </div>
                                 </div>
                             </div>
                         </div>

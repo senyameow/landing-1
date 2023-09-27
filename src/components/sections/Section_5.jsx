@@ -12,7 +12,7 @@ const Section_5 = () => {
 
                         <div className='flex items-center justify-center w-full h-full'>
                             <div className='py-[34px] px-[30px] text-center '>
-                                <p className={`w-full mx-auto text-[20px] xl:text-[24px] text-black leading-[28px]`}>PapaCoin is more than just a cryptocurrency; it's a movement to celebrate fathers and the Pepe legacy. Join us in honoring fathers worldwide and embracing the power of crypto. Together, we can make <span className='secondary_text'>$PAPA the ultimate symbol</span> of fatherhood in the digital world.</p>
+                                <p className={`w-full mx-auto text-[20px] xl:text-[24px] text-black leading-[28px]`}>PapaCoin is more than just a cryptocurrency; it's a movement to celebrate fathers and the Pepe legacy. Join us in honoring fathers worldwide and embracing the power of crypto. Together, we can make <span className='secondary_text'>$PEPEPAPA the ultimate symbol</span> of fatherhood in the digital world.</p>
                             </div>
 
                         </div>
@@ -26,7 +26,7 @@ const Section_5 = () => {
                     <div className='flex items-center justify-center w-full h-full'>
                         <div className='py-[24px] px-[62px] flex flex-col items-center gap-[7px] justify-center'>
                             <img src={lamp} alt="" />
-                            <p className={` w-full text-center mx-auto text-[24px] text-[#FFF]`}>Invest in PepePapaCoin ($PAPA) and be a part of the crypto revolution that celebrates fathers and the iconic Pepe!</p>
+                            <p className={` w-full text-center mx-auto text-[24px] text-[#FFF]`}>Invest in PepePapaCoin ($PEPEPAPA) and be a part of the crypto revolution that celebrates fathers and the iconic Pepe!</p>
                         </div>
 
                     </div>

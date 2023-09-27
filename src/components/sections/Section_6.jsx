@@ -14,7 +14,7 @@ const Section_6 = () => {
                     <div className={`max-w-[601px] h-[221px] rounded-[40px] border border-[#231F20] bg-[#E69B4D] relative z-[40] lg:ml-[198px]`}>
                         <div className='flex items-center justify-center w-full h-full card'>
                             <div className='py-[34px] px-[70px] text-center'>
-                                <p className={`w-full mx-auto text-[50px] sm:text-[60px] md:text-[70px] text-black text-center lg:text-start`}>PepePapaCoin ($PAPA) </p>
+                                <p className={`w-full mx-auto text-[50px] sm:text-[60px] md:text-[70px] text-black text-center lg:text-start`}>PepePapaCoin ($PEPEPAPA) </p>
                             </div>
 
                         </div>
@@ -37,7 +37,7 @@ const Section_6 = () => {
                         </div>
                         <div className='flex flex-row items-center gap-[20px]'>
                             <img src={star} alt="" className='w-[33px] h-[34px]' />
-                            <span className='lg:text-[24px] text-[26px] leading-[29px] font-400 '>PepePapaCoin ($PAPA) is more than just a cryptocurrency; <div></div>
+                            <span className='lg:text-[24px] text-[26px] leading-[29px] font-400 '>PepePapaCoin ($PEPEPAPA) is more than just a cryptocurrency; <div></div>
                                 it's a tribute to fathers and the legendary Pepe.</span>
                         </div>
                         <div className='flex flex-row items-center gap-[20px]'>
